@@ -4,6 +4,8 @@ Neste projeto, será feita uma análise de discurso de ódio, para isso será ut
 
 O intuito deste projeto é como a ciência de dados pode ajudar a como identificar mais rapidamente este tipo de discurso e ser uma base para quem estuda na área a como obter insigths melhores
 
+## Análise Inicial
 
+Para ler a análise inicial feita clique [aqui](https://github.com/gustavoramos82/An-lise-de-discurso-de-dio/blob/main/An%C3%A1lise%20inicial.md)
 
 
